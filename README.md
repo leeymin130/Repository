@@ -1,14 +1,14 @@
 # Repository
 project setting 연습하기
 
-project 초기 셋팅
+### project 초기 셋팅하기
 
 1. 깃헙에서 Repository를 생성
 2. 필요한 .gitignore 파일을 추가
 3. develop branch 생성(디폴트 브랜치 dev로)
 4. main과 develop branch의 rule 생성
 5. loacal에 클론해서 해당 폴더에 새로운 xcode 프로젝트 생성
-6. '깃크라켄'에서 develop 브랜치에 변경사항 commit-> push (local의 작업을 원격에 반영)
+6. 깃크라켄(: 깃 GUI 툴)에서 develop branch에 변경사항 commit -> push (local의 작업을 원격에 반영)
 7. 이슈 탬플릿 만들기(pull 해주면 local에 반영됨)
 8. pull request 탬플릿 만들기 
 9. README 추가
