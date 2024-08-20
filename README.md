@@ -1,7 +1,7 @@
 # Repository
 project setting 연습하기
 
-### project 초기 셋팅
+### 📍 project 초기 셋팅
 
 1. 깃헙에서 Repository를 생성
 2. 필요한 .gitignore 파일을 추가
